@@ -1,6 +1,7 @@
 # StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko
 
 ![image](https://github.com/edwardLAKONE/StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko/assets/153514891/cf761f26-ad52-428d-9d20-e3be371810b4)
+![image](https://github.com/edwardLAKONE/StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko/assets/153514891/dcaf9be6-677d-4217-a3a2-643923b10296)
 
 # Tugas Assignment 3 ==>
 Nama Project = StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko
