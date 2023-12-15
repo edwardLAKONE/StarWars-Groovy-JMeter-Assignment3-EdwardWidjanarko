@@ -6,7 +6,7 @@
 # Tugas Assignment 3 ==>
 Nama Project = StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko
 
-# Struktur
+# Prerequisite
 terdapat 3 TUGAS detail yg sebelumnya harus dikerjakan di Assignment 3
 Thread Group dari StarWars-Groovy-JMeter-Assignment3-EdwardWidjanarko berisi = 
     1. HTTP TUGAS 1
